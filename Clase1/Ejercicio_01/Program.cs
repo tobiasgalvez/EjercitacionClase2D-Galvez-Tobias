@@ -13,49 +13,49 @@ namespace Ejercicio_01
 
         static void Main(string[] args)
         {
-            string numeroStr;
-            int numero=0;
-            bool res;
+            string numeroIngresadoString;
+            int numeroIngresadoParseado=0;
+            bool resultadoDelParseo;
 
-            int max = 0;
-            int min = 0;
+            int maximoDeNumerosIngresados = 0;
+            int minimoDeNumerosIngresados = 0;
 
-            int acum = 0;
+            int acumuladorDeNumerosIngresados = 0;
 
-            float promedio = 0f;
+            float promedioNumerosIngresados = 0f;
 
             for(int i= 0; i<5; i++)
             {
                Console.WriteLine("Ingrese un numero: ");
-               numeroStr = Console.ReadLine();
-               res = int.TryParse(numeroStr, out numero);
+               numeroIngresadoString = Console.ReadLine();
+               resultadoDelParseo = int.TryParse(numeroIngresadoString, out numeroIngresadoParseado);
 
-               if (res == true)
+               if (resultadoDelParseo == true)
                 {
-                    acum += numero;
+                    acumuladorDeNumerosIngresados += numeroIngresadoParseado;
 
                     if(i == 0)
                     {
-                        min = numero;
-                        max = numero;
+                        minimoDeNumerosIngresados = numeroIngresadoParseado;
+                        maximoDeNumerosIngresados = numeroIngresadoParseado;
                     }
                     else
                     {
-                        if(max < numero)
+                        if(maximoDeNumerosIngresados < numeroIngresadoParseado)
                         {
-                            max = numero;
+                            maximoDeNumerosIngresados = numeroIngresadoParseado;
                         }
-                        if(min > numero)
+                        if(minimoDeNumerosIngresados > numeroIngresadoParseado)
                         {
-                            min = numero;
+                            minimoDeNumerosIngresados = numeroIngresadoParseado;
                         }
                     }
                 }
             }
 
-            promedio = (float)(acum / 5);
+            promedioNumerosIngresados = (float)(acumuladorDeNumerosIngresados / 5);
 
-            Console.WriteLine($"Valor máximo = {max} --- Valor mínimo = {min} --- Promedio = {promedio} ");
+            Console.WriteLine($"Valor máximo = {maximoDeNumerosIngresados} --- Valor mínimo = {minimoDeNumerosIngresados} --- Promedio = {promedioNumerosIngresados} ");
             //Console.WriteLine($"Valor mínimo = {min}");
             //Console.WriteLine($"Promedio ={promedio}");
 
