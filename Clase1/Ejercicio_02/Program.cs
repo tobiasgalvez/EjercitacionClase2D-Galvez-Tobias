@@ -12,20 +12,25 @@ namespace Ejercicio_02
     {
         static void Main(string[] args)
         {
-            string numeroIngresado;
-            int numero;
+            string numeroIngresadoString;
+            int numeroIngresadoParseado;
            
 
             Console.WriteLine("Ingrese un numero: ");
-            numeroIngresado = Console.ReadLine();
+            numeroIngresadoString = Console.ReadLine();
 
-            while((int.TryParse(numeroIngresado, out numero) != true))
+            while((int.TryParse(numeroIngresadoString, out numeroIngresadoParseado) != true) || numeroIngresadoParseado <= 0)
             {
                 Console.WriteLine("ERROR. ¡Reingresar número! :");
-                numeroIngresado = Console.ReadLine();
+                numeroIngresadoString = Console.ReadLine();
                 
             }
-           
+
+           // Math.Pow(numero, 2);
+            Console.WriteLine($"El cuadrado del numero '{numeroIngresadoParseado}' es: {Math.Pow(numeroIngresadoParseado, 2)}");
+            //Math.Pow(numero, 3);
+            Console.WriteLine($"El cubo del numero es: {Math.Pow(numeroIngresadoParseado, 3)}");
+
         }
     }
 }
