@@ -1,0 +1,16 @@
+C:\Users\Tobias Galvez\source\repos\Clase1\Ejercicios\bin\Debug\net5.0\EjercitacionEnClase.exe
+C:\Users\Tobias Galvez\source\repos\Clase1\Ejercicios\bin\Debug\net5.0\EjercitacionEnClase.deps.json
+C:\Users\Tobias Galvez\source\repos\Clase1\Ejercicios\bin\Debug\net5.0\EjercitacionEnClase.runtimeconfig.json
+C:\Users\Tobias Galvez\source\repos\Clase1\Ejercicios\bin\Debug\net5.0\EjercitacionEnClase.runtimeconfig.dev.json
+C:\Users\Tobias Galvez\source\repos\Clase1\Ejercicios\bin\Debug\net5.0\EjercitacionEnClase.dll
+C:\Users\Tobias Galvez\source\repos\Clase1\Ejercicios\bin\Debug\net5.0\EjercitacionEnClase.pdb
+C:\Users\Tobias Galvez\source\repos\Clase1\Ejercicios\obj\Debug\net5.0\EjercitacionEnClase.csproj.AssemblyReference.cache
+C:\Users\Tobias Galvez\source\repos\Clase1\Ejercicios\obj\Debug\net5.0\EjercitacionEnClase.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tobias Galvez\source\repos\Clase1\Ejercicios\obj\Debug\net5.0\EjercitacionEnClase.AssemblyInfoInputs.cache
+C:\Users\Tobias Galvez\source\repos\Clase1\Ejercicios\obj\Debug\net5.0\EjercitacionEnClase.AssemblyInfo.cs
+C:\Users\Tobias Galvez\source\repos\Clase1\Ejercicios\obj\Debug\net5.0\EjercitacionEnClase.csproj.CoreCompileInputs.cache
+C:\Users\Tobias Galvez\source\repos\Clase1\Ejercicios\obj\Debug\net5.0\EjercitacionEnClase.dll
+C:\Users\Tobias Galvez\source\repos\Clase1\Ejercicios\obj\Debug\net5.0\refint\EjercitacionEnClase.dll
+C:\Users\Tobias Galvez\source\repos\Clase1\Ejercicios\obj\Debug\net5.0\EjercitacionEnClase.pdb
+C:\Users\Tobias Galvez\source\repos\Clase1\Ejercicios\obj\Debug\net5.0\EjercitacionEnClase.genruntimeconfig.cache
+C:\Users\Tobias Galvez\source\repos\Clase1\Ejercicios\obj\Debug\net5.0\ref\EjercitacionEnClase.dll

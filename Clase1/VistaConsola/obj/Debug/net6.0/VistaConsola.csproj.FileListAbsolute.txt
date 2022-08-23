@@ -1,0 +1,15 @@
+C:\Users\Tobias Galvez\source\repos\Clase1\VistaConsola\bin\Debug\net6.0\VistaConsola.exe
+C:\Users\Tobias Galvez\source\repos\Clase1\VistaConsola\bin\Debug\net6.0\VistaConsola.deps.json
+C:\Users\Tobias Galvez\source\repos\Clase1\VistaConsola\bin\Debug\net6.0\VistaConsola.runtimeconfig.json
+C:\Users\Tobias Galvez\source\repos\Clase1\VistaConsola\bin\Debug\net6.0\VistaConsola.dll
+C:\Users\Tobias Galvez\source\repos\Clase1\VistaConsola\bin\Debug\net6.0\VistaConsola.pdb
+C:\Users\Tobias Galvez\source\repos\Clase1\VistaConsola\obj\Debug\net6.0\VistaConsola.csproj.AssemblyReference.cache
+C:\Users\Tobias Galvez\source\repos\Clase1\VistaConsola\obj\Debug\net6.0\VistaConsola.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tobias Galvez\source\repos\Clase1\VistaConsola\obj\Debug\net6.0\VistaConsola.AssemblyInfoInputs.cache
+C:\Users\Tobias Galvez\source\repos\Clase1\VistaConsola\obj\Debug\net6.0\VistaConsola.AssemblyInfo.cs
+C:\Users\Tobias Galvez\source\repos\Clase1\VistaConsola\obj\Debug\net6.0\VistaConsola.csproj.CoreCompileInputs.cache
+C:\Users\Tobias Galvez\source\repos\Clase1\VistaConsola\obj\Debug\net6.0\VistaConsola.dll
+C:\Users\Tobias Galvez\source\repos\Clase1\VistaConsola\obj\Debug\net6.0\refint\VistaConsola.dll
+C:\Users\Tobias Galvez\source\repos\Clase1\VistaConsola\obj\Debug\net6.0\VistaConsola.pdb
+C:\Users\Tobias Galvez\source\repos\Clase1\VistaConsola\obj\Debug\net6.0\VistaConsola.genruntimeconfig.cache
+C:\Users\Tobias Galvez\source\repos\Clase1\VistaConsola\obj\Debug\net6.0\ref\VistaConsola.dll
