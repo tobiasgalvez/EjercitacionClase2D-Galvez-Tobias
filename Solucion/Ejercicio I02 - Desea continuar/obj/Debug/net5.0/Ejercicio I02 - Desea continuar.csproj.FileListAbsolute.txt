@@ -1,0 +1,16 @@
+C:\Users\Tobias Galvez\source\repos\Clase1\Ejercicio I02 - Desea continuar\bin\Debug\net5.0\Ejercicio I02 - Desea continuar.exe
+C:\Users\Tobias Galvez\source\repos\Clase1\Ejercicio I02 - Desea continuar\bin\Debug\net5.0\Ejercicio I02 - Desea continuar.deps.json
+C:\Users\Tobias Galvez\source\repos\Clase1\Ejercicio I02 - Desea continuar\bin\Debug\net5.0\Ejercicio I02 - Desea continuar.runtimeconfig.json
+C:\Users\Tobias Galvez\source\repos\Clase1\Ejercicio I02 - Desea continuar\bin\Debug\net5.0\Ejercicio I02 - Desea continuar.runtimeconfig.dev.json
+C:\Users\Tobias Galvez\source\repos\Clase1\Ejercicio I02 - Desea continuar\bin\Debug\net5.0\Ejercicio I02 - Desea continuar.dll
+C:\Users\Tobias Galvez\source\repos\Clase1\Ejercicio I02 - Desea continuar\bin\Debug\net5.0\Ejercicio I02 - Desea continuar.pdb
+C:\Users\Tobias Galvez\source\repos\Clase1\Ejercicio I02 - Desea continuar\obj\Debug\net5.0\Ejercicio I02 - Desea continuar.csproj.AssemblyReference.cache
+C:\Users\Tobias Galvez\source\repos\Clase1\Ejercicio I02 - Desea continuar\obj\Debug\net5.0\Ejercicio I02 - Desea continuar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tobias Galvez\source\repos\Clase1\Ejercicio I02 - Desea continuar\obj\Debug\net5.0\Ejercicio I02 - Desea continuar.AssemblyInfoInputs.cache
+C:\Users\Tobias Galvez\source\repos\Clase1\Ejercicio I02 - Desea continuar\obj\Debug\net5.0\Ejercicio I02 - Desea continuar.AssemblyInfo.cs
+C:\Users\Tobias Galvez\source\repos\Clase1\Ejercicio I02 - Desea continuar\obj\Debug\net5.0\Ejercicio I02 - Desea continuar.csproj.CoreCompileInputs.cache
+C:\Users\Tobias Galvez\source\repos\Clase1\Ejercicio I02 - Desea continuar\obj\Debug\net5.0\Ejercicio I02 - Desea continuar.dll
+C:\Users\Tobias Galvez\source\repos\Clase1\Ejercicio I02 - Desea continuar\obj\Debug\net5.0\refint\Ejercicio I02 - Desea continuar.dll
+C:\Users\Tobias Galvez\source\repos\Clase1\Ejercicio I02 - Desea continuar\obj\Debug\net5.0\Ejercicio I02 - Desea continuar.pdb
+C:\Users\Tobias Galvez\source\repos\Clase1\Ejercicio I02 - Desea continuar\obj\Debug\net5.0\Ejercicio I02 - Desea continuar.genruntimeconfig.cache
+C:\Users\Tobias Galvez\source\repos\Clase1\Ejercicio I02 - Desea continuar\obj\Debug\net5.0\ref\Ejercicio I02 - Desea continuar.dll
