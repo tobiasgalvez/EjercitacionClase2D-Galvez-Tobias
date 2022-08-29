@@ -1,0 +1,16 @@
+C:\Users\Tobias Galvez\source\repos\Clase1\Ejercicio_06 - Años bisiestos\bin\Debug\net5.0\Ejercicio_06 - Años bisiestos.exe
+C:\Users\Tobias Galvez\source\repos\Clase1\Ejercicio_06 - Años bisiestos\bin\Debug\net5.0\Ejercicio_06 - Años bisiestos.deps.json
+C:\Users\Tobias Galvez\source\repos\Clase1\Ejercicio_06 - Años bisiestos\bin\Debug\net5.0\Ejercicio_06 - Años bisiestos.runtimeconfig.json
+C:\Users\Tobias Galvez\source\repos\Clase1\Ejercicio_06 - Años bisiestos\bin\Debug\net5.0\Ejercicio_06 - Años bisiestos.runtimeconfig.dev.json
+C:\Users\Tobias Galvez\source\repos\Clase1\Ejercicio_06 - Años bisiestos\bin\Debug\net5.0\Ejercicio_06 - Años bisiestos.dll
+C:\Users\Tobias Galvez\source\repos\Clase1\Ejercicio_06 - Años bisiestos\bin\Debug\net5.0\Ejercicio_06 - Años bisiestos.pdb
+C:\Users\Tobias Galvez\source\repos\Clase1\Ejercicio_06 - Años bisiestos\obj\Debug\net5.0\Ejercicio_06 - Años bisiestos.csproj.AssemblyReference.cache
+C:\Users\Tobias Galvez\source\repos\Clase1\Ejercicio_06 - Años bisiestos\obj\Debug\net5.0\Ejercicio_06 - Años bisiestos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tobias Galvez\source\repos\Clase1\Ejercicio_06 - Años bisiestos\obj\Debug\net5.0\Ejercicio_06 - Años bisiestos.AssemblyInfoInputs.cache
+C:\Users\Tobias Galvez\source\repos\Clase1\Ejercicio_06 - Años bisiestos\obj\Debug\net5.0\Ejercicio_06 - Años bisiestos.AssemblyInfo.cs
+C:\Users\Tobias Galvez\source\repos\Clase1\Ejercicio_06 - Años bisiestos\obj\Debug\net5.0\Ejercicio_06 - Años bisiestos.csproj.CoreCompileInputs.cache
+C:\Users\Tobias Galvez\source\repos\Clase1\Ejercicio_06 - Años bisiestos\obj\Debug\net5.0\Ejercicio_06 - Años bisiestos.dll
+C:\Users\Tobias Galvez\source\repos\Clase1\Ejercicio_06 - Años bisiestos\obj\Debug\net5.0\refint\Ejercicio_06 - Años bisiestos.dll
+C:\Users\Tobias Galvez\source\repos\Clase1\Ejercicio_06 - Años bisiestos\obj\Debug\net5.0\Ejercicio_06 - Años bisiestos.pdb
+C:\Users\Tobias Galvez\source\repos\Clase1\Ejercicio_06 - Años bisiestos\obj\Debug\net5.0\Ejercicio_06 - Años bisiestos.genruntimeconfig.cache
+C:\Users\Tobias Galvez\source\repos\Clase1\Ejercicio_06 - Años bisiestos\obj\Debug\net5.0\ref\Ejercicio_06 - Años bisiestos.dll
