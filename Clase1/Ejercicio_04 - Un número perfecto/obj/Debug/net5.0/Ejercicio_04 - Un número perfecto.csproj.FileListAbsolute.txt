@@ -1,0 +1,16 @@
+C:\Users\Tobias Galvez\source\repos\Clase1\Ejercicio_04 - Un número perfecto\bin\Debug\net5.0\Ejercicio_04 - Un número perfecto.exe
+C:\Users\Tobias Galvez\source\repos\Clase1\Ejercicio_04 - Un número perfecto\bin\Debug\net5.0\Ejercicio_04 - Un número perfecto.deps.json
+C:\Users\Tobias Galvez\source\repos\Clase1\Ejercicio_04 - Un número perfecto\bin\Debug\net5.0\Ejercicio_04 - Un número perfecto.runtimeconfig.json
+C:\Users\Tobias Galvez\source\repos\Clase1\Ejercicio_04 - Un número perfecto\bin\Debug\net5.0\Ejercicio_04 - Un número perfecto.runtimeconfig.dev.json
+C:\Users\Tobias Galvez\source\repos\Clase1\Ejercicio_04 - Un número perfecto\bin\Debug\net5.0\Ejercicio_04 - Un número perfecto.dll
+C:\Users\Tobias Galvez\source\repos\Clase1\Ejercicio_04 - Un número perfecto\bin\Debug\net5.0\Ejercicio_04 - Un número perfecto.pdb
+C:\Users\Tobias Galvez\source\repos\Clase1\Ejercicio_04 - Un número perfecto\obj\Debug\net5.0\Ejercicio_04 - Un número perfecto.csproj.AssemblyReference.cache
+C:\Users\Tobias Galvez\source\repos\Clase1\Ejercicio_04 - Un número perfecto\obj\Debug\net5.0\Ejercicio_04 - Un número perfecto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tobias Galvez\source\repos\Clase1\Ejercicio_04 - Un número perfecto\obj\Debug\net5.0\Ejercicio_04 - Un número perfecto.AssemblyInfoInputs.cache
+C:\Users\Tobias Galvez\source\repos\Clase1\Ejercicio_04 - Un número perfecto\obj\Debug\net5.0\Ejercicio_04 - Un número perfecto.AssemblyInfo.cs
+C:\Users\Tobias Galvez\source\repos\Clase1\Ejercicio_04 - Un número perfecto\obj\Debug\net5.0\Ejercicio_04 - Un número perfecto.csproj.CoreCompileInputs.cache
+C:\Users\Tobias Galvez\source\repos\Clase1\Ejercicio_04 - Un número perfecto\obj\Debug\net5.0\Ejercicio_04 - Un número perfecto.dll
+C:\Users\Tobias Galvez\source\repos\Clase1\Ejercicio_04 - Un número perfecto\obj\Debug\net5.0\refint\Ejercicio_04 - Un número perfecto.dll
+C:\Users\Tobias Galvez\source\repos\Clase1\Ejercicio_04 - Un número perfecto\obj\Debug\net5.0\Ejercicio_04 - Un número perfecto.pdb
+C:\Users\Tobias Galvez\source\repos\Clase1\Ejercicio_04 - Un número perfecto\obj\Debug\net5.0\Ejercicio_04 - Un número perfecto.genruntimeconfig.cache
+C:\Users\Tobias Galvez\source\repos\Clase1\Ejercicio_04 - Un número perfecto\obj\Debug\net5.0\ref\Ejercicio_04 - Un número perfecto.dll
