@@ -1,0 +1,16 @@
+C:\Users\Tobias Galvez\source\repos\Clase1\Ejercicio_05 - Tirame un centro\obj\Debug\net5.0\Ejercicio_05 - Tirame un centro.csproj.AssemblyReference.cache
+C:\Users\Tobias Galvez\source\repos\Clase1\Ejercicio_05 - Tirame un centro\obj\Debug\net5.0\Ejercicio_05 - Tirame un centro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tobias Galvez\source\repos\Clase1\Ejercicio_05 - Tirame un centro\obj\Debug\net5.0\Ejercicio_05 - Tirame un centro.AssemblyInfoInputs.cache
+C:\Users\Tobias Galvez\source\repos\Clase1\Ejercicio_05 - Tirame un centro\obj\Debug\net5.0\Ejercicio_05 - Tirame un centro.AssemblyInfo.cs
+C:\Users\Tobias Galvez\source\repos\Clase1\Ejercicio_05 - Tirame un centro\obj\Debug\net5.0\Ejercicio_05 - Tirame un centro.csproj.CoreCompileInputs.cache
+C:\Users\Tobias Galvez\source\repos\Clase1\Ejercicio_05 - Tirame un centro\bin\Debug\net5.0\Ejercicio_05 - Tirame un centro.exe
+C:\Users\Tobias Galvez\source\repos\Clase1\Ejercicio_05 - Tirame un centro\bin\Debug\net5.0\Ejercicio_05 - Tirame un centro.deps.json
+C:\Users\Tobias Galvez\source\repos\Clase1\Ejercicio_05 - Tirame un centro\bin\Debug\net5.0\Ejercicio_05 - Tirame un centro.runtimeconfig.json
+C:\Users\Tobias Galvez\source\repos\Clase1\Ejercicio_05 - Tirame un centro\bin\Debug\net5.0\Ejercicio_05 - Tirame un centro.runtimeconfig.dev.json
+C:\Users\Tobias Galvez\source\repos\Clase1\Ejercicio_05 - Tirame un centro\bin\Debug\net5.0\Ejercicio_05 - Tirame un centro.dll
+C:\Users\Tobias Galvez\source\repos\Clase1\Ejercicio_05 - Tirame un centro\bin\Debug\net5.0\Ejercicio_05 - Tirame un centro.pdb
+C:\Users\Tobias Galvez\source\repos\Clase1\Ejercicio_05 - Tirame un centro\obj\Debug\net5.0\Ejercicio_05 - Tirame un centro.dll
+C:\Users\Tobias Galvez\source\repos\Clase1\Ejercicio_05 - Tirame un centro\obj\Debug\net5.0\refint\Ejercicio_05 - Tirame un centro.dll
+C:\Users\Tobias Galvez\source\repos\Clase1\Ejercicio_05 - Tirame un centro\obj\Debug\net5.0\Ejercicio_05 - Tirame un centro.pdb
+C:\Users\Tobias Galvez\source\repos\Clase1\Ejercicio_05 - Tirame un centro\obj\Debug\net5.0\Ejercicio_05 - Tirame un centro.genruntimeconfig.cache
+C:\Users\Tobias Galvez\source\repos\Clase1\Ejercicio_05 - Tirame un centro\obj\Debug\net5.0\ref\Ejercicio_05 - Tirame un centro.dll
