@@ -1,0 +1,16 @@
+C:\Users\Tobias Galvez\source\repos\Clase1\Ejercicio 01 - La maquina expendedora\bin\Debug\net5.0\Ejercicio 01 - La maquina expendedora.exe
+C:\Users\Tobias Galvez\source\repos\Clase1\Ejercicio 01 - La maquina expendedora\bin\Debug\net5.0\Ejercicio 01 - La maquina expendedora.deps.json
+C:\Users\Tobias Galvez\source\repos\Clase1\Ejercicio 01 - La maquina expendedora\bin\Debug\net5.0\Ejercicio 01 - La maquina expendedora.runtimeconfig.json
+C:\Users\Tobias Galvez\source\repos\Clase1\Ejercicio 01 - La maquina expendedora\bin\Debug\net5.0\Ejercicio 01 - La maquina expendedora.runtimeconfig.dev.json
+C:\Users\Tobias Galvez\source\repos\Clase1\Ejercicio 01 - La maquina expendedora\bin\Debug\net5.0\Ejercicio 01 - La maquina expendedora.dll
+C:\Users\Tobias Galvez\source\repos\Clase1\Ejercicio 01 - La maquina expendedora\bin\Debug\net5.0\Ejercicio 01 - La maquina expendedora.pdb
+C:\Users\Tobias Galvez\source\repos\Clase1\Ejercicio 01 - La maquina expendedora\obj\Debug\net5.0\Ejercicio 01 - La maquina expendedora.csproj.AssemblyReference.cache
+C:\Users\Tobias Galvez\source\repos\Clase1\Ejercicio 01 - La maquina expendedora\obj\Debug\net5.0\Ejercicio 01 - La maquina expendedora.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tobias Galvez\source\repos\Clase1\Ejercicio 01 - La maquina expendedora\obj\Debug\net5.0\Ejercicio 01 - La maquina expendedora.AssemblyInfoInputs.cache
+C:\Users\Tobias Galvez\source\repos\Clase1\Ejercicio 01 - La maquina expendedora\obj\Debug\net5.0\Ejercicio 01 - La maquina expendedora.AssemblyInfo.cs
+C:\Users\Tobias Galvez\source\repos\Clase1\Ejercicio 01 - La maquina expendedora\obj\Debug\net5.0\Ejercicio 01 - La maquina expendedora.csproj.CoreCompileInputs.cache
+C:\Users\Tobias Galvez\source\repos\Clase1\Ejercicio 01 - La maquina expendedora\obj\Debug\net5.0\Ejercicio 01 - La maquina expendedora.dll
+C:\Users\Tobias Galvez\source\repos\Clase1\Ejercicio 01 - La maquina expendedora\obj\Debug\net5.0\refint\Ejercicio 01 - La maquina expendedora.dll
+C:\Users\Tobias Galvez\source\repos\Clase1\Ejercicio 01 - La maquina expendedora\obj\Debug\net5.0\Ejercicio 01 - La maquina expendedora.pdb
+C:\Users\Tobias Galvez\source\repos\Clase1\Ejercicio 01 - La maquina expendedora\obj\Debug\net5.0\Ejercicio 01 - La maquina expendedora.genruntimeconfig.cache
+C:\Users\Tobias Galvez\source\repos\Clase1\Ejercicio 01 - La maquina expendedora\obj\Debug\net5.0\ref\Ejercicio 01 - La maquina expendedora.dll
