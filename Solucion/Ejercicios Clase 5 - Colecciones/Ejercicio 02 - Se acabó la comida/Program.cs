@@ -40,7 +40,7 @@ namespace Ejercicio_02___Se_acabó_la_comida
 
                 foreach (KeyValuePair<int, Stack<Producto>> item in maquinaExpendedora)
                 {
-                    Console.WriteLine($"{item.Key} --- {item.Value.Nombre} ${item.Value.Precio}");
+                    Console.WriteLine($"{item.Key} --- {item.Value}");
                 }
 
                 Console.WriteLine("Elija el numero del producto que quiere: ");
